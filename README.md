@@ -33,11 +33,17 @@ Este es un proyecto creado con [Next.js]
 - **Framer-Motion**
 - **Lucide-react**
 
+## Vista previa
+
+### Versión móvil
+![Vista móvil](./public/movil.png)
+
+### Versión de escritorio
+![Vista escritorio](./public/Desktop.png)
 
 ## Tiempo de desarrollo
 
 El desarrollo de este proyecto tomó un total de 8 horas.
-
 
 ## Despliegue
 El despliegue se realizo en [Vercel]
