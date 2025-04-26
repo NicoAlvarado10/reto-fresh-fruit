@@ -32,6 +32,7 @@ Este es un proyecto creado con [Next.js]
 - **Tailwind CSS**
 - **Framer-Motion**
 - **Lucide-react**
+- - **Hekai (fondo naranja)**
 
 ## Vista previa
 
